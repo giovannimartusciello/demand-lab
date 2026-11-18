@@ -1,0 +1,4 @@
+# Optional local development; browser visitors install nothing.
+streamlit==1.65.0
+pandas>=2.2,<3.1
+altair==6.3.0
