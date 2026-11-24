@@ -1,0 +1,6 @@
+[
+  {"id":"socks", "name":"Calze sportive", "pattern":"Domanda stazionaria", "base":500,"slope":0,"amplitude":0,"peak_month":6,"noise_sd":35,"seed":2411},
+  {"id":"fitness_band", "name":"Elastico per il fitness", "pattern":"Trend crescente", "base":120,"slope":5,"amplitude":0,"peak_month":6,"noise_sd":20,"seed":2412},
+  {"id":"camping_tent", "name":"Tenda da campeggio", "pattern":"Stagionalità estiva", "base":200,"slope":0,"amplitude":0.8,"peak_month":6,"noise_sd":12,"seed":2413},
+  {"id":"niche_accessory", "name":"Accessorio sportivo di nicchia", "pattern":"Domanda irregolare", "base":65,"slope":0,"amplitude":0,"peak_month":6,"noise_sd":65,"seed":2414}
+]
